@@ -1,3 +1,5 @@
+All credit for the code goes to the authors of the original repository https://github.com/filippo-masi/Thermodynamics-Neural-Networks. This repository is a fork of the original, with modifications made by Héctor Lobato, researcher at Leartiker.
+
 # [Thermodynamics-based Artificial Neural Networks](https://doi.org/10.1016/j.jmps.2020.104277)
 
 
